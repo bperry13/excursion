@@ -24,3 +24,7 @@ p {
 p .cta {
   color: aquamarine;
 }
+
+.copyright {
+  text-align: end;
+}
